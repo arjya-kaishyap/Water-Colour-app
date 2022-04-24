@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "watercolour-app2",
+    "slug": "snack-372c72a5-d44e-4dfb-95ea-ae852acbda52",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.arjya.snack372c72a5d44e4dfb95eaae852acbda52"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.arjya.snack372c72a5d44e4dfb95eaae852acbda52"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
